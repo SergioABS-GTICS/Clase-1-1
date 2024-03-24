@@ -19,3 +19,7 @@ Para que sea reconocido como controlador y atienda solicitudes HTTP:
 **Retornar una vista HTML con un método**
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/e4d91b51-6da5-4b2a-8817-d11ec609e13d)
+
+## Múltiples rutas a un mismo método
+
+![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/15476dfa-cc7d-4bb8-aca4-1cab55993e8f)
