@@ -32,4 +32,7 @@ En una clase controller pueden haber muchos controllers:
 
 Se usa el "ResponseBody" cuando queremos que solo retorne el mensaje en una vista html
 
+## Ruteo a nivel de clase
+
+![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/edc1eac5-0773-4654-8e35-66c56062e72f)
 
