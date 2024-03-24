@@ -23,3 +23,13 @@ Para que sea reconocido como controlador y atienda solicitudes HTTP:
 ## Múltiples rutas a un mismo método
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/15476dfa-cc7d-4bb8-aca4-1cab55993e8f)
+
+## Clase Controller con múltiples controllers
+
+En una clase controller pueden haber muchos controllers:
+
+![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/7ebecb82-b99e-4b3f-8066-be1c1491f098)
+
+Se usa el "ResponseBody" cuando queremos que solo retorne el mensaje en una vista html
+
+
