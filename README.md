@@ -9,3 +9,6 @@
 Para que sea reconocido como controlador y atienda solicitudes HTTP:
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/e3a10c19-26a6-41a8-943f-c36d15407c5c)
+
+![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/c1cec4b9-2680-400f-a019-23ddc9894ea4)
+
