@@ -1,4 +1,4 @@
-# Clase1
+# Clase 1-1
 
 ## Intro a Spring Framework
 
@@ -35,4 +35,8 @@ Se usa el "ResponseBody" cuando queremos que solo retorne el mensaje en una vist
 ## Ruteo a nivel de clase
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/edc1eac5-0773-4654-8e35-66c56062e72f)
+
+## Request Mapping Corto (según el método)
+
+![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/42ce3720-5a27-4900-a305-1b7d346e89da)
 
