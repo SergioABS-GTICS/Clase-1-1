@@ -15,3 +15,7 @@ Para que sea reconocido como controlador y atienda solicitudes HTTP:
 **Método RequestMapping**
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/5aff3bc4-256d-4efb-836b-6df582669f4c)
+
+**Retornar una vista HTML con un método**
+
+![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/e4d91b51-6da5-4b2a-8817-d11ec609e13d)
