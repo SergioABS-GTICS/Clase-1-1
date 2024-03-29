@@ -41,6 +41,11 @@ Se usa el "ResponseBody" cuando queremos que solo retorne el mensaje en una vist
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/edc1eac5-0773-4654-8e35-66c56062e72f)
 
+Solo asigna un mejor orden a las URL de las demás vistas:
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-1/assets/154263057/d634c3c0-a604-4d01-b893-3d6303da6021)
+
+
 ## Request Mapping Corto (según el método)
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/42ce3720-5a27-4900-a305-1b7d346e89da)
