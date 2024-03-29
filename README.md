@@ -24,6 +24,11 @@ Para que sea reconocido como controlador y atienda solicitudes HTTP:
 
 ![image](https://github.com/SergioABS-GTICS/Clase1/assets/154263057/15476dfa-cc7d-4bb8-aca4-1cab55993e8f)
 
+Se puede haciendo de las dos formas: RequestMapping o GetMapping:
+
+![image](https://github.com/SergioABS-GTICS/Clase-1-1/assets/154263057/3d352cd5-1d98-4da1-a0a5-55533dae7dc2)
+
+
 ## Clase Controller con múltiples controllers
 
 En una clase controller pueden haber muchos controllers:
